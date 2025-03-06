@@ -66,7 +66,5 @@ To contribute to this project, follow these steps:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
-If you have any questions or need further assistance, feel free to contact the project maintainer at [email@example.com].
+If you have any questions or need further assistance, feel free to contact the project maintainer at [sapthagiri@example.com].
 ```
-
-You can copy and paste this structure into your `README.md` file and fill in the specific details related to your project. This will provide a comprehensive guide for users to understand, install, and use your mobile number tracking project.
